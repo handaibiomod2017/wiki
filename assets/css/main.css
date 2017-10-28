@@ -1779,10 +1779,18 @@
 	}
 
 /* Image */
+img {
+	width:100%;
+			height:auto;
+}
+
+
 
 	.image {
 		border: 0;
 		position: relative;
+		width:100%
+			height:auto
 	}
 
 		.image:before {
